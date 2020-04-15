@@ -10,22 +10,29 @@ Sizda ro’yxatdan o’tish bo’yicha savol tug’ildimi? Unda marhamat, ushbu 
 Darslarni boshlash uchun marhamat, ushbu videdarsni ko’ring: https://youtu.be/HwevNs2MOLY 
 
 ## Android studioni qanday o'rnatiladi?
+### Sinfxonaga kirganingizga Android Studioni qanday o'rnatish batafsil ko'rsatilgan.
+1. Java o'rnatilishini o'rganish darsi: https://classroom.udacity.com/nanodegrees/nd803-1mac-v2/parts/35d5d48b-d613-45a1-9b94-4986c504c387/modules/5fdf5921-c205-4095-8326-b5973e0259f4/lessons/195b2123-3306-48b3-8bca-d307feeb62b0/concepts/41821187880923
+2. Android Studio dasturni turli platformalarga o'rnatish videodarsi: https://classroom.udacity.com/nanodegrees/nd803-1mac-v2/parts/35d5d48b-d613-45a1-9b94-4986c504c387/modules/5fdf5921-c205-4095-8326-b5973e0259f4/lessons/195b2123-3306-48b3-8bca-d307feeb62b0/concepts/43534185590923
 Siz Android Studio deb nomlanuvchi dasturni o’rnatmoqchisiz. Bu dastur kompyuter uchun mo’ljallangan va kompyuterga o’rnatib o’rganishingizni maslahat beramiz. Android Studioning so’nggi versiyasini mana bu saytdan yuklab olishingiz mumkin: https://developer.android.com/studio 
 Android Studioning mobil telefonlar uchun mobil versiyasi ham ishlab chiqilgan, uni guruhimizning tarixida fayllar orasidan qidirib topishingiz va yuklab olib telefoningizga o’rnatishingiz mumkin, lekin bu faqatgina zarur hollardagina ishlatish tavsiya qilinadi, Siz agar Android Studio haqida tushunchaga ega bo’lmasangiz mobil versiyadan foydalanmasligingiz tavsiya qilinadi.
 Dastlab kompyuteringizda JAVA mavjudligini tekshirib ko’rishingiz kerak, agar yo'q bo'lsa uni o’rnatasiz, JDK ni o’rnatish uchun mana shu (https://www.oracle.com/java/technologies/javase-downloads.html) saytdan uni yuklab oling va o’rnating. O’rnatib quyidagi ketma-ketlikda ish bajarasiz:
  
- ![Image](MyPNG/image001.png)
+![Image](MyPNG/image001.png)
+ Moy kompyuter svoystvasiga kiring
  
-Moy kompyuter svoystavsiga kiring
- 
+![Image](MyPNG/image003.png) 
 Dopolnitelnie parametri sistemiga kiring
  
+ ![Image](MyPNG/image005.png)
 Dopolnitelo bo'limidan, Peremennie sredi ga kiring
  
+![Image](MyPNG/image006.png)
 JAVA_HOME qo'shishingiz kerak. Bu skrinshotda JAVA_HOME mavjud.
  
+![Image](MyPNG/image008.png)
 Siz o’zingiz uni qo’shish uchun sozdat qilasiz.
  
+![Image](MyPNG/image010.png)
 JAVA_HOME deb yozib, yuqorida JDK ni o’rnatgan papka yo’lini ko’rsatasiz.
 ### Android Studioni o’rnatish ketma-ketligi quyidagicha:
 Dastlab https://developer.android.com/studio  linkdan Android Studioni o’zingizning operatsion tizimingizga mos versiyasini ko’chirib oling. Windows uchun versiyalarini guruhimiz tarixidan ham topsangiz bo’ladi. 
