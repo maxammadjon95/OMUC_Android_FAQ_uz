@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Xush kelibsiz
 
 You can use the [editor on GitHub](https://github.com/maxammadjon95/OMUC_Android_FAQ_uz/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
