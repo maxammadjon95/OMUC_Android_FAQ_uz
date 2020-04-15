@@ -1,4 +1,4 @@
-## “Bir million o‘zbek dasturchilari”ning Android kurslari bo’yicha Telegram guruhiga xush kelibsiz!
+## “Bir million o‘zbek dasturchilari”ning Android kurslariga xush kelibsiz!
 Bizning guruhimizga qo‘shilganingizdan bag‘oyat xursandmiz. Siz o’quv kurslari orqali jahon mehnat bozorida yuqori talabda bo‘lgan bilim va ko‘nikmalarga ega bo‘lasiz.
 Dastur davomida kursning barcha turdagi kontenti (video, matn va laboratoriyalar) bilan Udacity classroom – Udacity sinfxonasida tanishishingiz mumkin. Vaqtingizni samarali rejalashtirishingiz va topshiriqlarni vaqtida bajarishingiz uchun kontent ikki bosqichga bo‘lingan.
 1-bosqich: Ikki haftaga mo‘ljallangan, agar ko‘proq vaqt kerak bo‘lsa, ushbu bosqichni 3 oy davomida o‘tishingiz mumkin bo‘ladi, lekin kursning qolgan qismini reja asosida o‘tishingiz uchun ushbu bosqichni ikki haftada yakunlashingiz maqsadga muvofiq. Ushbu bosqich yakunida Certificate of Participation - Qatnashuv Sertifikati beriladi.
