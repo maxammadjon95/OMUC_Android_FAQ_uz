@@ -13,7 +13,8 @@ Darslarni boshlash uchun marhamat, ushbu videdarsni ko’ring: https://youtu.be/
 Siz Android Studio deb nomlanuvchi dasturni o’rnatmoqchisiz. Bu dastur kompyuter uchun mo’ljallangan va kompyuterga o’rnatib o’rganishingizni maslahat beramiz. Android Studioning so’nggi versiyasini mana bu saytdan yuklab olishingiz mumkin: https://developer.android.com/studio 
 Android Studioning mobil telefonlar uchun mobil versiyasi ham ishlab chiqilgan, uni guruhimizning tarixida fayllar orasidan qidirib topishingiz va yuklab olib telefoningizga o’rnatishingiz mumkin, lekin bu faqatgina zarur hollardagina ishlatish tavsiya qilinadi, Siz agar Android Studio haqida tushunchaga ega bo’lmasangiz mobil versiyadan foydalanmasligingiz tavsiya qilinadi.
 Dastlab kompyuteringizda JAVA mavjudligini tekshirib ko’rishingiz kerak, agar yo'q bo'lsa uni o’rnatasiz, JDK ni o’rnatish uchun mana shu (https://www.oracle.com/java/technologies/javase-downloads.html) saytdan uni yuklab oling va o’rnating. O’rnatib quyidagi ketma-ketlikda ish bajarasiz:
- ![Image](MyPNG/image001.png)
+ 
+ [Image](MyPNG/image001.png)
  
 Moy kompyuter svoystavsiga kiring
  
